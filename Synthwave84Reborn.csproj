@@ -13,8 +13,8 @@
     <ProjectGuid>{A6050349-F839-4AF1-BD67-5D909BE536B5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VsixThemeWorkspace</RootNamespace>
-    <AssemblyName>VsixThemeWorkspace</AssemblyName>
+    <RootNamespace>Synthwave84Reborn</RootNamespace>
+    <AssemblyName>Synthwave84Reborn</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
     <IncludeAssemblyInVSIXContainer>false</IncludeAssemblyInVSIXContainer>

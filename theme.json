@@ -7596,7 +7596,7 @@
 				},
 				"ControlSolidFillDefault": {
 					"BackgroundType": 1,
-					"Background": "#FF62527C",
+					"Background": "#FF454545",
 					"ForegroundType": 0
 				},
 				"ControlFillActiveInput": {

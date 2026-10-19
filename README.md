@@ -2,7 +2,9 @@
 
 A port of [Robb Owen's Synthwave '84 vscode theme](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode), now for Visual Studio 2026!
 
-[This has been ported before by stillgbx](https://github.com/stillgbx/synthwave-vs), but his port uses the glowing text base colors instead of the non-glowing base colors.  In my opinion this makes code harder to read since most of those colors are very close to pure white and don't have good contrast.
+~~[This has been ported before by stillgbx](https://github.com/stillgbx/synthwave-vs), but his port uses the glowing text base colors instead of the non-glowing base colors.  In my opinion this makes code harder to read since most of those colors are very close to pure white and don't have good contrast.~~
+
+EDIT: [stillgbx's port](https://github.com/stillgbx/synthwave-vs) is now far more capable than this one.  It can even switch on and off the glow if you're into that.
 
 The VSIX installs this theme as "Synthwave '84 Reborn", and can be found under `Tools > Themes`
 
